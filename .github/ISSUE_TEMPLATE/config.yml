@@ -1,8 +1,8 @@
 blank_issues_enabled: true
 contact_links:
-  - name: ⚡ Priority B2B Triage & SLA (GitHub Sponsors)
-    url: https://github.com/sponsors/PedroMartinezag
-    about: Running our tools in production? Corporate sponsors receive guaranteed 24h/48h response SLAs and prioritized bug fixes.
-  - name: 🛡️ Report a Security Vulnerability (Private)
-    url: https://github.com/PedroMartinezag/.github/blob/main/SECURITY.md
-    about: Please do NOT open public issues for security vulnerabilities. Follow our private disclosure instructions here.
+  - name: "⚡ Priority B2B Triage & SLA (GitHub Sponsors)"
+    url: "https://github.com/sponsors/PedroMartinezag"
+    about: "Running our tools in production? Corporate sponsors receive guaranteed 24h/48h response SLAs and prioritized bug fixes."
+  - name: "🛡️ Report a Security Vulnerability (Private)"
+    url: "https://github.com/PedroMartinezag/.github/blob/main/SECURITY.md"
+    about: "Please do NOT open public issues for security vulnerabilities. Follow our private disclosure instructions here."
